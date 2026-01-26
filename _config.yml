@@ -16,7 +16,7 @@ timezone:
 
 title: drhythm26 # the main title
 
-tagline: 慢即是快 # it will display as the subtitle
+tagline: 笔记本 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
